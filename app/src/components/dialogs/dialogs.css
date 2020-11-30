@@ -1,0 +1,17 @@
+.topBarButton {
+  margin: 14px 10px !important
+}
+
+.MuiFormControl-root {
+  margin-top: 8px !important;
+}
+
+.addVolumeButton {
+  align-self: flex-end;
+  padding: 6px !important;
+  margin-right: -8px !important;
+}
+
+.MuiDialogActions-root {
+  margin-top: 15px;
+}

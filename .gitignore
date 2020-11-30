@@ -1,0 +1,14 @@
+node_modules
+
+# Webpack
+.webpack/
+
+# Bundled files
+app/dist/
+
+# intellij for py
+app/py/.idea
+
+# data presets
+app/data/container/*
+app/data/playbook/*
