@@ -1,5 +1,5 @@
 {
-  "name": "edocker",
+  "name": "docker-playbook",
   "version": "0.1.0",
   "description": "A minimal desktop application for your common docker compositions",
   "main": "app/electron/main.js",

@@ -1,0 +1,16 @@
+{
+  "plugins": [
+      [
+          "module-resolver",
+          {
+              "cwd": "babelrc",                
+              "alias": {
+                  "Components": "./app/src/components"
+              }
+          }
+      ]
+  ],
+  "presets": [
+      "react-app"
+  ]
+}
